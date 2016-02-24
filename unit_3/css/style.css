@@ -1,6 +1,5 @@
 body {
-      background-image: url("river-hero image 1.jpeg");
-      background-color: blue;
+      background: url("river-hero image 1.jpeg");
 }
 
 h1, p { 

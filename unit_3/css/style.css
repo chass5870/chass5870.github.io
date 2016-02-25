@@ -2,6 +2,12 @@ body {
       background-color:#FDFFE8;
       text-align:center;
 
+#header {
+  background-color: #FFAD94;
+  text-align: center;
+  padding: 5px;
+}      
+
 }
 
 h1, p { 

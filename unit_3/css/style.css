@@ -18,11 +18,13 @@ hr {
   width:200px;
 }
 
-.box {
-  border:1px 
-  solid #B2AC92;
+div {
+  height: 50px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 5px;
+  display:block;
 }
-.box h1, p {
-  background:#B2AC92;
-  color:white;
+#box {
+  background-color: #B2AC92;
 }

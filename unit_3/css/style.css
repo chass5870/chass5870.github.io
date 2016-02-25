@@ -20,7 +20,7 @@ hr {
 
 div {
   height: 200px;
-  width: 900px;
+  width: 100%;
   border: 2px solid black;
   border-radius: 5px;
   display:block;

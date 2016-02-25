@@ -1,19 +1,11 @@
 body {
       background-color:#FDFFE8;
       text-align:center;
-<style>
-#header {
-  background-color: #FFAD94;
-  text-align: center;
-  padding: 5px;
-}      
 
-}
-
-/*h1, p { 
+h1, p { 
       color: #97DBFF;
       text-align: center;
-      font-family: Helvetica;*/
+      font-family: Helvetica;
     }
 
 img {

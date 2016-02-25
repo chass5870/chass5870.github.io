@@ -1,11 +1,13 @@
 body {
       background-color:#FDFFE8;
       text-align:center;
+ }     
 
 h1, p { 
       color: #97DBFF;
       text-align: center;
       font-family: Helvetica;
+}      
 
 hr {
   width:200px;

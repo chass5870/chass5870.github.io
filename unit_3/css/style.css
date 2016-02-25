@@ -6,7 +6,7 @@ body {
 h1, p { 
       color: #92B29E;
       text-align: center;
-      font-family: Helvetica;
+      font-family: Helvetica;   
 }
 
 img {
@@ -27,4 +27,8 @@ div {
 }
 #box {
   background-color: #B2AC92;
+}
+
+#title {
+  color:#EAFFF2;
 }
